@@ -1,0 +1,10 @@
+先安装依赖：
+cd c:\Users\Administrator\Desktop\ADD\AIClient-2-API-main
+npm install
+
+
+编译后端服务：
+cd C:\Users\Administrator\Desktop\ADD\AIClient-2-API-main
+npm run build
+npm run dev
+
